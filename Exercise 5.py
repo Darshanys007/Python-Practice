@@ -1,3 +1,5 @@
+# Program to Create Stone, Paper, Scissor Game
+
 import random
 
 def check(comp,user):
